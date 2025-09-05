@@ -1,1 +1,1 @@
-(function(e){"use strict";var r={TreemapModule:TreemapModule,createTreemapServices:createTreemapServices};__bbb.v=r}).call(this)
+(function(e){"use strict";var t={ArchitectureModule:ArchitectureModule,createArchitectureServices:createArchitectureServices};__bbb.v=t}).call(this)

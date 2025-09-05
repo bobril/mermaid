@@ -23,7 +23,7 @@ b.init(() => {
                     </button>
                 ))}
             </div>
-            <b.ErrorBoundary fallback={(e) => <div>Error occurred {e.message}</div>}>
+            <b.ErrorBoundary fallback={(e) => <div>Error occurred {(e as Error).message}</div>}>
                 <b.Suspense fallback={<div>Rendering...</div>}>
                     <mermaid.Mermaid>
                         {`--- graph TD;

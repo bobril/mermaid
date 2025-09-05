@@ -1,1 +1,1 @@
-(function(e){"use strict";var r={RadarModule:RadarModule,createRadarServices:createRadarServices};__bbb.u=r}).call(this)
+(function(e){"use strict";var i={PieModule:PieModule,createPieServices:createPieServices};__bbb.u=i}).call(this)

@@ -1,1 +1,1 @@
-(function(e){"use strict";var o={InfoModule:InfoModule,createInfoServices:createInfoServices};__bbb.p=o}).call(this)
+(function(_){"use strict";var a=__bbb.Mb;function t(_,a){var t,c,b;_.accDescr&&((t=a.setAccDescription)===null||t===void 0?void 0:t.call(a,_.accDescr));_.accTitle&&((c=a.setAccTitle)===null||c===void 0?void 0:c.call(a,_.accTitle));_.title&&((b=a.setDiagramTitle)===null||b===void 0?void 0:b.call(a,_.title))}a(t,"populateCommonDb");__bbb.id=t;__bbb.p=undefined}).call(this)
