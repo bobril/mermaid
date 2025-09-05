@@ -1,0 +1,36 @@
+{
+    "name": "@bobril/mermaid",
+    "version": "1.0.0",
+    "description": "Mermaid component for Bobril",
+    "main": "index.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bobril/mermaid.git"
+    },
+    "keywords": [
+        "bobril",
+        "mermaid",
+        "diagram"
+    ],
+    "prettier": {
+        "tabWidth": 4,
+        "printWidth": 120
+    },
+    "author": "Bobris",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bobril/mermaid/issues"
+    },
+    "homepage": "https://github.com/bobril/mermaid#readme",
+    "dependencies": {
+        "bobril": "*",
+        "mermaid": "^11.10.1",
+        "type-fest": "^4.41.0"
+    },
+    "devDependencies": {
+        "typescript": "*"
+    },
+    "scripts": {
+        "build": "rm -rf docs && bb build"
+    }
+}

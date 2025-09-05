@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "checkJs": false,
+    "declaration": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react",
+    "lib": [
+      "es2022",
+      "dom"
+    ],
+    "module": "es2022",
+    "moduleResolution": "bundler",
+    "noEmit": true,
+    "noEmitHelpers": true,
+    "reactNamespace": "b",
+    "removeComments": false,
+    "skipLibCheck": false,
+    "skipDefaultLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2019",
+    "resolveJsonModule": true
+  },
+  "files": [
+    "index.ts",
+    "/Users/borisletocha/Research/@bobril/mermaid/example.tsx"
+  ],
+  "include": [
+    "**/*.spec.ts",
+    "**/*.spec.tsx",
+    "**/*.spec.d.ts",
+    "**/*Spec.ts",
+    "**/*Spec.tsx",
+    "**/*Spec.d.ts"
+  ]
+}

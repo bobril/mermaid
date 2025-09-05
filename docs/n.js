@@ -1,0 +1,1 @@
+(function(_){"use strict";var a=__bbb.Lb;function t(_,a){var t,c,b;_.accDescr&&((t=a.setAccDescription)===null||t===void 0?void 0:t.call(a,_.accDescr));_.accTitle&&((c=a.setAccTitle)===null||c===void 0?void 0:c.call(a,_.accTitle));_.title&&((b=a.setDiagramTitle)===null||b===void 0?void 0:b.call(a,_.title))}a(t,"populateCommonDb");__bbb.fd=t;__bbb.m=undefined}).call(this)

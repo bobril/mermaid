@@ -1,0 +1,14 @@
+gh-pages/
+node_modules/
+/dist/
+
+*.log
+
+.DS_Store
+
+*/.idea
+/.idea
+/index.d.ts
+/index.js
+/src/*.d.ts
+/src/*.js
