@@ -26,7 +26,7 @@ b.init(() => {
             <b.ErrorBoundary fallback={(e) => <div>Error occurred {(e as Error).message}</div>}>
                 <b.Suspense fallback={<div>Rendering...</div>}>
                     <mermaid.Mermaid>
-                        {`--- graph TD;
+                        {`graph TD;
                         A-->B;
                         A-->C;
                         B-->D;
