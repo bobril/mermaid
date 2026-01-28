@@ -1,6 +1,6 @@
 {
     "name": "@bobril/mermaid",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Mermaid component for Bobril",
     "main": "index.ts",
     "repository": {
